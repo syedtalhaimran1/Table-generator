@@ -1,2 +1,2 @@
 # Table-generator
-table generator using JavaScript only
+Table generated using JavaScript only
